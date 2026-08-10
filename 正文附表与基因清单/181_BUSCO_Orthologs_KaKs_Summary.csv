@@ -1,0 +1,182 @@
+﻿Index,BUSCO_ID,Num_Pairs,Gene_Name,Category,Median_KaKs,Selection_Status,Is_Top25
+1,598949at2759,101,Eukaryotic Ortholog 598949,核心单拷贝同源基因 / 生理代谢稳态,1.2881,正选择 (Positive),否
+2,918816at2759,15,Eukaryotic Ortholog 918816,核心单拷贝同源基因 / 生理代谢稳态,4.1974,正选择 (Positive),否
+3,817008at2759,33,Eukaryotic Ortholog 817008,核心单拷贝同源基因 / 生理代谢稳态,0.3786,纯化选择 (Purifying),否
+4,1001705at2759,105,Eukaryotic Ortholog 1001705,核心单拷贝同源基因 / 生理代谢稳态,0.5617,纯化选择 (Purifying),否
+5,1455730at2759,105,"SKI-interacting protein, SKIP",细胞骨架与细胞运动,0.5601,纯化选择 (Purifying),是 (Top 25 建树基因)
+6,774318at2759,104,Dol-P-Man,核心管家基因 / 生理代谢稳态,0.4708,纯化选择 (Purifying),是 (Top 25 建树基因)
+7,1576404at2759,53,Eukaryotic Ortholog 1576404,核心单拷贝同源基因 / 生理代谢稳态,0.2952,纯化选择 (Purifying),否
+8,655400at2759,13,Eukaryotic Ortholog 655400,核心单拷贝同源基因 / 生理代谢稳态,2.9867,正选择 (Positive),否
+9,604979at2759,21,Eukaryotic Ortholog 604979,核心单拷贝同源基因 / 生理代谢稳态,1.5268,正选择 (Positive),否
+10,621827at2759,104,WD40-repeat-containing domain,核心管家基因 / 生理代谢稳态,2.669,正选择 (Positive),是 (Top 25 建树基因)
+11,1440961at2759,10,Eukaryotic Ortholog 1440961,核心单拷贝同源基因 / 生理代谢稳态,3.9111,正选择 (Positive),否
+12,582756at2759,27,Eukaryotic Ortholog 582756,核心单拷贝同源基因 / 生理代谢稳态,2.6327,正选择 (Positive),否
+13,1065019at2759,27,Eukaryotic Ortholog 1065019,核心单拷贝同源基因 / 生理代谢稳态,1.3151,正选择 (Positive),否
+14,1111142at2759,9,Eukaryotic Ortholog 1111142,核心单拷贝同源基因 / 生理代谢稳态,4.3551,正选择 (Positive),否
+15,1287401at2759,55,Eukaryotic Ortholog 1287401,核心单拷贝同源基因 / 生理代谢稳态,1.1417,正选择 (Positive),否
+16,375960at2759,21,Eukaryotic Ortholog 375960,核心单拷贝同源基因 / 生理代谢稳态,3.589,正选择 (Positive),否
+17,1421503at2759,10,Eukaryotic Ortholog 1421503,核心单拷贝同源基因 / 生理代谢稳态,0.7589,纯化选择 (Purifying),否
+18,257318at2759,69,Eukaryotic Ortholog 257318,核心单拷贝同源基因 / 生理代谢稳态,0.7225,纯化选择 (Purifying),否
+19,306227at2759,28,Eukaryotic Ortholog 306227,核心单拷贝同源基因 / 生理代谢稳态,0.9502,纯化选择 (Purifying),否
+20,1380409at2759,28,Eukaryotic Ortholog 1380409,核心单拷贝同源基因 / 生理代谢稳态,1.3134,正选择 (Positive),否
+21,679771at2759,19,Eukaryotic Ortholog 679771,核心单拷贝同源基因 / 生理代谢稳态,0.5852,纯化选择 (Purifying),否
+22,1053181at2759,57,Eukaryotic Ortholog 1053181,核心单拷贝同源基因 / 生理代谢稳态,1.6316,正选择 (Positive),否
+23,664730at2759,101,Pyridoxal phosphate-dependent transferase,核心管家基因 / 生理代谢稳态,0.4146,纯化选择 (Purifying),是 (Top 25 建树基因)
+24,1395649at2759,34,Eukaryotic Ortholog 1395649,核心单拷贝同源基因 / 生理代谢稳态,1.2735,正选择 (Positive),否
+25,1442062at2759,52,Eukaryotic Ortholog 1442062,核心单拷贝同源基因 / 生理代谢稳态,4.664,正选择 (Positive),否
+26,1010730at2759,15,Eukaryotic Ortholog 1010730,核心单拷贝同源基因 / 生理代谢稳态,1.4371,正选择 (Positive),否
+27,418107at2759,21,Eukaryotic Ortholog 418107,核心单拷贝同源基因 / 生理代谢稳态,1.2829,正选择 (Positive),否
+28,1370304at2759,4,Eukaryotic Ortholog 1370304,核心单拷贝同源基因 / 生理代谢稳态,1.5366,正选择 (Positive),否
+29,1197019at2759,28,Eukaryotic Ortholog 1197019,核心单拷贝同源基因 / 生理代谢稳态,1.6618,正选择 (Positive),否
+30,777920at2759,15,Eukaryotic Ortholog 777920,核心单拷贝同源基因 / 生理代谢稳态,2.242,正选择 (Positive),否
+31,878143at2759,27,Eukaryotic Ortholog 878143,核心单拷贝同源基因 / 生理代谢稳态,1.0137,正选择 (Positive),否
+32,1090038at2759,105,Lipoyltransferase/lipoate-protein ligase,核心管家基因 / 生理代谢稳态,1.6508,正选择 (Positive),是 (Top 25 建树基因)
+33,1087488at2759,13,Eukaryotic Ortholog 1087488,核心单拷贝同源基因 / 生理代谢稳态,4.1491,正选择 (Positive),否
+34,1200489at2759,21,Eukaryotic Ortholog 1200489,核心单拷贝同源基因 / 生理代谢稳态,2.2545,正选择 (Positive),否
+35,1193442at2759,35,Eukaryotic Ortholog 1193442,核心单拷贝同源基因 / 生理代谢稳态,0.6492,纯化选择 (Purifying),否
+36,39650at2759,10,Eukaryotic Ortholog 39650,核心单拷贝同源基因 / 生理代谢稳态,1.2927,正选择 (Positive),否
+37,383503at2759,41,Eukaryotic Ortholog 383503,核心单拷贝同源基因 / 生理代谢稳态,1.6213,正选择 (Positive),否
+38,156083at2759,26,Eukaryotic Ortholog 156083,核心单拷贝同源基因 / 生理代谢稳态,0.2671,纯化选择 (Purifying),否
+39,1269244at2759,15,Eukaryotic Ortholog 1269244,核心单拷贝同源基因 / 生理代谢稳态,2.9317,正选择 (Positive),否
+40,1259741at2759,80,Eukaryotic Ortholog 1259741,核心单拷贝同源基因 / 生理代谢稳态,0.4833,纯化选择 (Purifying),否
+41,919955at2759,10,Eukaryotic Ortholog 919955,核心单拷贝同源基因 / 生理代谢稳态,2.2218,正选择 (Positive),否
+42,1157302at2759,32,Eukaryotic Ortholog 1157302,核心单拷贝同源基因 / 生理代谢稳态,0.2772,纯化选择 (Purifying),否
+43,1342242at2759,105,"Aminomethyltransferase, folate-binding domain",核心管家基因 / 生理代谢稳态,1.3468,正选择 (Positive),是 (Top 25 建树基因)
+44,1567796at2759,38,Eukaryotic Ortholog 1567796,核心单拷贝同源基因 / 生理代谢稳态,0.6269,纯化选择 (Purifying),否
+45,1488235at2759,66,Eukaryotic Ortholog 1488235,核心单拷贝同源基因 / 生理代谢稳态,1.263,正选择 (Positive),否
+46,692986at2759,18,Eukaryotic Ortholog 692986,核心单拷贝同源基因 / 生理代谢稳态,2.5032,正选择 (Positive),否
+47,1322299at2759,10,Eukaryotic Ortholog 1322299,核心单拷贝同源基因 / 生理代谢稳态,3.4604,正选择 (Positive),否
+48,1223488at2759,85,OPI10 family,核心管家基因 / 生理代谢稳态,4.4377,正选择 (Positive),是 (Top 25 建树基因)
+49,674169at2759,29,Eukaryotic Ortholog 674169,核心单拷贝同源基因 / 生理代谢稳态,5.1532,正选择 (Positive),否
+50,1194691at2759,28,Eukaryotic Ortholog 1194691,核心单拷贝同源基因 / 生理代谢稳态,1.5662,正选择 (Positive),否
+51,1217666at2759,100,"Ribosome maturation protein SBDS, N-terminal",核糖体复合物亚基 / 蛋白质翻译,0.7501,纯化选择 (Purifying),是 (Top 25 建树基因)
+52,1504863at2759,82,Eukaryotic Ortholog 1504863,核心单拷贝同源基因 / 生理代谢稳态,0.811,纯化选择 (Purifying),否
+53,1450538at2759,10,Eukaryotic Ortholog 1450538,核心单拷贝同源基因 / 生理代谢稳态,5.0942,正选择 (Positive),否
+54,1405146at2759,10,Eukaryotic Ortholog 1405146,核心单拷贝同源基因 / 生理代谢稳态,2.6339,正选择 (Positive),否
+55,946128at2759,19,Eukaryotic Ortholog 946128,核心单拷贝同源基因 / 生理代谢稳态,2.1288,正选择 (Positive),否
+56,1304061at2759,54,Eukaryotic Ortholog 1304061,核心单拷贝同源基因 / 生理代谢稳态,1.0018,正选择 (Positive),否
+57,1538526at2759,92,Eukaryotic Ortholog 1538526,核心单拷贝同源基因 / 生理代谢稳态,2.3601,正选择 (Positive),否
+58,1454155at2759,101,Eukaryotic Ortholog 1454155,核心单拷贝同源基因 / 生理代谢稳态,0.8912,纯化选择 (Purifying),否
+59,1266231at2759,21,Eukaryotic Ortholog 1266231,核心单拷贝同源基因 / 生理代谢稳态,0.8044,纯化选择 (Purifying),否
+60,1257440at2759,92,Eukaryotic Ortholog 1257440,核心单拷贝同源基因 / 生理代谢稳态,0.385,纯化选择 (Purifying),否
+61,453044at2759,78,Eukaryotic Ortholog 453044,核心单拷贝同源基因 / 生理代谢稳态,1.2354,正选择 (Positive),否
+62,834694at2759,43,Eukaryotic Ortholog 834694,核心单拷贝同源基因 / 生理代谢稳态,1.2101,正选择 (Positive),否
+63,1041560at2759,9,Eukaryotic Ortholog 1041560,核心单拷贝同源基因 / 生理代谢稳态,3.2584,正选择 (Positive),否
+64,320059at2759,15,Eukaryotic Ortholog 320059,核心单拷贝同源基因 / 生理代谢稳态,0.6291,纯化选择 (Purifying),否
+65,1513531at2759,103,Eukaryotic Ortholog 1513531,核心单拷贝同源基因 / 生理代谢稳态,0.6076,纯化选择 (Purifying),否
+66,1526152at2759,15,Eukaryotic Ortholog 1526152,核心单拷贝同源基因 / 生理代谢稳态,0.9384,纯化选择 (Purifying),否
+67,975557at2759,92,Eukaryotic Ortholog 975557,核心单拷贝同源基因 / 生理代谢稳态,1.1804,正选择 (Positive),否
+68,1474000at2759,23,Translocation protein Sec62,核心管家基因 / 生理代谢稳态,2.1465,正选择 (Positive),是 (Top 25 建树基因)
+69,1645187at2759,103,PDCD5-like,核心管家基因 / 生理代谢稳态,1.4397,正选择 (Positive),是 (Top 25 建树基因)
+70,1291729at2759,14,Eukaryotic Ortholog 1291729,核心单拷贝同源基因 / 生理代谢稳态,3.6801,正选择 (Positive),否
+71,1138059at2759,21,Eukaryotic Ortholog 1138059,核心单拷贝同源基因 / 生理代谢稳态,0.9136,纯化选择 (Purifying),否
+72,1441854at2759,10,Eukaryotic Ortholog 1441854,核心单拷贝同源基因 / 生理代谢稳态,1.3576,正选择 (Positive),否
+73,673132at2759,45,Eukaryotic Ortholog 673132,核心单拷贝同源基因 / 生理代谢稳态,1.3701,正选择 (Positive),否
+74,1085752at2759,102,Atg6/Beclin,核心管家基因 / 生理代谢稳态,1.583,正选择 (Positive),是 (Top 25 建树基因)
+75,1488436at2759,32,Eukaryotic Ortholog 1488436,核心单拷贝同源基因 / 生理代谢稳态,0.3772,纯化选择 (Purifying),否
+76,513979at2759,6,Eukaryotic Ortholog 513979,核心单拷贝同源基因 / 生理代谢稳态,3.7101,正选择 (Positive),否
+77,1003258at2759,105,GPI mannosyltransferase 1,核心管家基因 / 生理代谢稳态,1.252,正选择 (Positive),是 (Top 25 建树基因)
+78,1428854at2759,15,Eukaryotic Ortholog 1428854,核心单拷贝同源基因 / 生理代谢稳态,1.8203,正选择 (Positive),否
+79,83779at2759,44,Eukaryotic Ortholog 83779,核心单拷贝同源基因 / 生理代谢稳态,2.2561,正选择 (Positive),否
+80,869548at2759,46,Eukaryotic Ortholog 869548,核心单拷贝同源基因 / 生理代谢稳态,0.2209,纯化选择 (Purifying),否
+81,369837at2759,21,Eukaryotic Ortholog 369837,核心单拷贝同源基因 / 生理代谢稳态,3.3584,正选择 (Positive),否
+82,388820at2759,45,Eukaryotic Ortholog 388820,核心单拷贝同源基因 / 生理代谢稳态,1.3821,正选择 (Positive),否
+83,858842at2759,105,DnaJ domain,核心管家基因 / 生理代谢稳态,2.3662,正选择 (Positive),是 (Top 25 建树基因)
+84,761109at2759,105,Eukaryotic Ortholog 761109,核心单拷贝同源基因 / 生理代谢稳态,0.1667,纯化选择 (Purifying),否
+85,1459797at2759,57,Eukaryotic Ortholog 1459797,核心单拷贝同源基因 / 生理代谢稳态,2.1264,正选择 (Positive),否
+86,1338131at2759,89,Eukaryotic Ortholog 1338131,核心单拷贝同源基因 / 生理代谢稳态,0.3869,纯化选择 (Purifying),否
+87,1407446at2759,9,SRP-independent targeting protein 2/TMEM208,核心管家基因 / 生理代谢稳态,5.2137,正选择 (Positive),是 (Top 25 建树基因)
+88,1370285at2759,20,Eukaryotic Ortholog 1370285,核心单拷贝同源基因 / 生理代谢稳态,1.2824,正选择 (Positive),否
+89,160593at2759,10,Eukaryotic Ortholog 160593,核心单拷贝同源基因 / 生理代谢稳态,1.7117,正选择 (Positive),否
+90,917326at2759,87,Sec1-like protein,核心管家基因 / 生理代谢稳态,1.5626,正选择 (Positive),是 (Top 25 建树基因)
+91,939345at2759,13,Eukaryotic Ortholog 939345,核心单拷贝同源基因 / 生理代谢稳态,3.0692,正选择 (Positive),否
+92,355408at2759,83,Tetratricopeptide repeat-containing domain,核心管家基因 / 生理代谢稳态,0.5735,纯化选择 (Purifying),是 (Top 25 建树基因)
+93,1398309at2759,31,Eukaryotic Ortholog 1398309,核心单拷贝同源基因 / 生理代谢稳态,3.9869,正选择 (Positive),否
+94,570797at2759,53,Eukaryotic Ortholog 570797,核心单拷贝同源基因 / 生理代谢稳态,2.087,正选择 (Positive),否
+95,1025450at2759,8,Eukaryotic Ortholog 1025450,核心单拷贝同源基因 / 生理代谢稳态,5.1373,正选择 (Positive),否
+96,296129at2759,20,Eukaryotic Ortholog 296129,核心单拷贝同源基因 / 生理代谢稳态,0.5935,纯化选择 (Purifying),否
+97,1426075at2759,95,Eukaryotic Ortholog 1426075,核心单拷贝同源基因 / 生理代谢稳态,0.7982,纯化选择 (Purifying),否
+98,671536at2759,10,Eukaryotic Ortholog 671536,核心单拷贝同源基因 / 生理代谢稳态,1.2069,正选择 (Positive),否
+99,1322642at2759,15,Eukaryotic Ortholog 1322642,核心单拷贝同源基因 / 生理代谢稳态,3.0303,正选择 (Positive),否
+100,1355894at2759,72,GNAT domain,核心管家基因 / 生理代谢稳态,2.4428,正选择 (Positive),是 (Top 25 建树基因)
+101,1309031at2759,78,Eukaryotic Ortholog 1309031,核心单拷贝同源基因 / 生理代谢稳态,3.187,正选择 (Positive),否
+102,865202at2759,14,Eukaryotic Ortholog 865202,核心单拷贝同源基因 / 生理代谢稳态,2.074,正选择 (Positive),否
+103,671846at2759,19,Eukaryotic Ortholog 671846,核心单拷贝同源基因 / 生理代谢稳态,2.6424,正选择 (Positive),否
+104,1014314at2759,12,Eukaryotic Ortholog 1014314,核心单拷贝同源基因 / 生理代谢稳态,0.0319,纯化选择 (Purifying),否
+105,1423847at2759,36,Eukaryotic Ortholog 1423847,核心单拷贝同源基因 / 生理代谢稳态,2.1809,正选择 (Positive),否
+106,331411at2759,10,Eukaryotic Ortholog 331411,核心单拷贝同源基因 / 生理代谢稳态,4.3544,正选择 (Positive),否
+107,1588798at2759,15,Eukaryotic Ortholog 1588798,核心单拷贝同源基因 / 生理代谢稳态,2.2657,正选择 (Positive),否
+108,245208at2759,61,Eukaryotic Ortholog 245208,核心单拷贝同源基因 / 生理代谢稳态,0.2587,纯化选择 (Purifying),否
+109,1284731at2759,90,Eukaryotic Ortholog 1284731,核心单拷贝同源基因 / 生理代谢稳态,1.084,正选择 (Positive),否
+110,944899at2759,94,Eukaryotic Ortholog 944899,核心单拷贝同源基因 / 生理代谢稳态,0.2894,纯化选择 (Purifying),否
+111,901894at2759,78,Eukaryotic Ortholog 901894,核心单拷贝同源基因 / 生理代谢稳态,1.7622,正选择 (Positive),否
+112,551907at2759,21,Eukaryotic Ortholog 551907,核心单拷贝同源基因 / 生理代谢稳态,3.1593,正选择 (Positive),否
+113,1490022at2759,21,Eukaryotic Ortholog 1490022,核心单拷贝同源基因 / 生理代谢稳态,1.414,正选择 (Positive),否
+114,1051021at2759,15,Eukaryotic Ortholog 1051021,核心单拷贝同源基因 / 生理代谢稳态,2.0875,正选择 (Positive),否
+115,1115196at2759,8,Eukaryotic Ortholog 1115196,核心单拷贝同源基因 / 生理代谢稳态,1.9914,正选择 (Positive),否
+116,299766at2759,44,Eukaryotic Ortholog 299766,核心单拷贝同源基因 / 生理代谢稳态,3.3637,正选择 (Positive),否
+117,87842at2759,92,Pep3/Vps18/deep orange,核心管家基因 / 生理代谢稳态,0.3302,纯化选择 (Purifying),是 (Top 25 建树基因)
+118,1545004at2759,100,"LSM domain, eukaryotic/archaea-type",核心管家基因 / 生理代谢稳态,2.4405,正选择 (Positive),是 (Top 25 建树基因)
+119,1018517at2759,14,Eukaryotic Ortholog 1018517,核心单拷贝同源基因 / 生理代谢稳态,1.1057,正选择 (Positive),否
+120,1228942at2759,10,Eukaryotic Ortholog 1228942,核心单拷贝同源基因 / 生理代谢稳态,4.0725,正选择 (Positive),否
+121,1626636at2759,10,Eukaryotic Ortholog 1626636,核心单拷贝同源基因 / 生理代谢稳态,4.5101,正选择 (Positive),否
+122,931188at2759,55,Eukaryotic Ortholog 931188,核心单拷贝同源基因 / 生理代谢稳态,4.2011,正选择 (Positive),否
+123,1264469at2759,105,Eukaryotic Ortholog 1264469,核心单拷贝同源基因 / 生理代谢稳态,1.8557,正选择 (Positive),否
+124,722805at2759,15,Eukaryotic Ortholog 722805,核心单拷贝同源基因 / 生理代谢稳态,4.051,正选择 (Positive),否
+125,836599at2759,65,Eukaryotic Ortholog 836599,核心单拷贝同源基因 / 生理代谢稳态,0.9676,纯化选择 (Purifying),否
+126,719531at2759,52,Eukaryotic Ortholog 719531,核心单拷贝同源基因 / 生理代谢稳态,0.966,纯化选择 (Purifying),否
+127,1434266at2759,103,Eukaryotic Ortholog 1434266,核心单拷贝同源基因 / 生理代谢稳态,1.6027,正选择 (Positive),否
+128,390348at2759,15,Eukaryotic Ortholog 390348,核心单拷贝同源基因 / 生理代谢稳态,0.7552,纯化选择 (Purifying),否
+129,1269649at2759,96,Eukaryotic Ortholog 1269649,核心单拷贝同源基因 / 生理代谢稳态,0.5167,纯化选择 (Purifying),否
+130,1346432at2759,101,Eukaryotic Ortholog 1346432,核心单拷贝同源基因 / 生理代谢稳态,0.6123,纯化选择 (Purifying),否
+131,176625at2759,10,Eukaryotic Ortholog 176625,核心单拷贝同源基因 / 生理代谢稳态,5.9278,正选择 (Positive),否
+132,975158at2759,15,Eukaryotic Ortholog 975158,核心单拷贝同源基因 / 生理代谢稳态,4.0735,正选择 (Positive),否
+133,1233814at2759,34,Eukaryotic Ortholog 1233814,核心单拷贝同源基因 / 生理代谢稳态,1.3674,正选择 (Positive),否
+134,1194797at2759,10,Eukaryotic Ortholog 1194797,核心单拷贝同源基因 / 生理代谢稳态,2.0429,正选择 (Positive),否
+135,543764at2759,98,Eukaryotic Ortholog 543764,核心单拷贝同源基因 / 生理代谢稳态,1.7187,正选择 (Positive),否
+136,271586at2759,88,Tetratricopeptide repeat,核心管家基因 / 生理代谢稳态,2.3049,正选择 (Positive),是 (Top 25 建树基因)
+137,1575179at2759,48,COX assembly mitochondrial protein,核心管家基因 / 生理代谢稳态,4.4756,正选择 (Positive),是 (Top 25 建树基因)
+138,1348942at2759,66,Eukaryotic Ortholog 1348942,核心单拷贝同源基因 / 生理代谢稳态,2.2157,正选择 (Positive),否
+139,1112002at2759,28,Eukaryotic Ortholog 1112002,核心单拷贝同源基因 / 生理代谢稳态,3.1048,正选择 (Positive),否
+140,734666at2759,105,Eukaryotic Ortholog 734666,核心单拷贝同源基因 / 生理代谢稳态,1.0584,正选择 (Positive),否
+141,1479417at2759,105,"SF3B4, RNA recognition motif 1",转录调控 / RNA 聚合酶复合物,0.6771,纯化选择 (Purifying),是 (Top 25 建树基因)
+142,1178688at2759,43,Eukaryotic Ortholog 1178688,核心单拷贝同源基因 / 生理代谢稳态,2.2892,正选择 (Positive),否
+143,887370at2759,105,GPI transamidase component PIG-T,核心管家基因 / 生理代谢稳态,2.9378,正选择 (Positive),是 (Top 25 建树基因)
+144,1617752at2759,10,Eukaryotic Ortholog 1617752,核心单拷贝同源基因 / 生理代谢稳态,1.3429,正选择 (Positive),否
+145,1558822at2759,87,Eukaryotic Ortholog 1558822,核心单拷贝同源基因 / 生理代谢稳态,0.3335,纯化选择 (Purifying),否
+146,1220881at2759,11,Eukaryotic Ortholog 1220881,核心单拷贝同源基因 / 生理代谢稳态,2.8257,正选择 (Positive),否
+147,1339553at2759,10,Eukaryotic Ortholog 1339553,核心单拷贝同源基因 / 生理代谢稳态,3.333,正选择 (Positive),否
+148,1405073at2759,102,Eukaryotic Ortholog 1405073,核心单拷贝同源基因 / 生理代谢稳态,0.4238,纯化选择 (Purifying),否
+149,345441at2759,10,Eukaryotic Ortholog 345441,核心单拷贝同源基因 / 生理代谢稳态,1.0988,正选择 (Positive),否
+150,1248958at2759,91,Eukaryotic Ortholog 1248958,核心单拷贝同源基因 / 生理代谢稳态,0.932,纯化选择 (Purifying),否
+151,891751at2759,10,Eukaryotic Ortholog 891751,核心单拷贝同源基因 / 生理代谢稳态,1.4325,正选择 (Positive),否
+152,100698at2759,10,Eukaryotic Ortholog 100698,核心单拷贝同源基因 / 生理代谢稳态,0.5931,纯化选择 (Purifying),否
+153,426305at2759,41,Eukaryotic Ortholog 426305,核心单拷贝同源基因 / 生理代谢稳态,2.0016,正选择 (Positive),否
+154,1107630at2759,10,Eukaryotic Ortholog 1107630,核心单拷贝同源基因 / 生理代谢稳态,1.2654,正选择 (Positive),否
+155,974865at2759,15,Eukaryotic Ortholog 974865,核心单拷贝同源基因 / 生理代谢稳态,2.0143,正选择 (Positive),否
+156,1032689at2759,15,Eukaryotic Ortholog 1032689,核心单拷贝同源基因 / 生理代谢稳态,1.8015,正选择 (Positive),否
+157,1260807at2759,21,Eukaryotic Ortholog 1260807,核心单拷贝同源基因 / 生理代谢稳态,1.7985,正选择 (Positive),否
+158,1106766at2759,90,Eukaryotic Ortholog 1106766,核心单拷贝同源基因 / 生理代谢稳态,0.6348,纯化选择 (Purifying),否
+159,97116at2759,83,Eukaryotic Ortholog 97116,核心单拷贝同源基因 / 生理代谢稳态,5.7867,正选择 (Positive),否
+160,1593937at2759,7,Eukaryotic Ortholog 1593937,核心单拷贝同源基因 / 生理代谢稳态,0.7574,纯化选择 (Purifying),否
+161,1633672at2759,42,Eukaryotic Ortholog 1633672,核心单拷贝同源基因 / 生理代谢稳态,0.4634,纯化选择 (Purifying),否
+162,1019762at2759,8,Eukaryotic Ortholog 1019762,核心单拷贝同源基因 / 生理代谢稳态,1.6471,正选择 (Positive),否
+163,1222562at2759,52,Eukaryotic Ortholog 1222562,核心单拷贝同源基因 / 生理代谢稳态,1.2051,正选择 (Positive),否
+164,937275at2759,92,tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit,转录调控 / RNA 聚合酶复合物,2.4765,正选择 (Positive),是 (Top 25 建树基因)
+165,1287094at2759,46,Eukaryotic Ortholog 1287094,核心单拷贝同源基因 / 生理代谢稳态,4.7085,正选择 (Positive),否
+166,1530008at2759,28,Eukaryotic Ortholog 1530008,核心单拷贝同源基因 / 生理代谢稳态,0.5126,纯化选择 (Purifying),否
+167,625387at2759,5,Eukaryotic Ortholog 625387,核心单拷贝同源基因 / 生理代谢稳态,4.4501,正选择 (Positive),否
+168,1314980at2759,76,Eukaryotic Ortholog 1314980,核心单拷贝同源基因 / 生理代谢稳态,5.5029,正选择 (Positive),否
+169,1552706at2759,77,Eukaryotic Ortholog 1552706,核心单拷贝同源基因 / 生理代谢稳态,2.1359,正选择 (Positive),否
+170,1096688at2759,9,Eukaryotic Ortholog 1096688,核心单拷贝同源基因 / 生理代谢稳态,1.4373,正选择 (Positive),否
+171,1358374at2759,15,Eukaryotic Ortholog 1358374,核心单拷贝同源基因 / 生理代谢稳态,1.227,正选择 (Positive),否
+172,814241at2759,50,Eukaryotic Ortholog 814241,核心单拷贝同源基因 / 生理代谢稳态,0.5044,纯化选择 (Purifying),否
+173,1079827at2759,70,Ribosomal biogenesis NSA2 family,核糖体复合物亚基 / 蛋白质翻译,0.2065,纯化选择 (Purifying),是 (Top 25 建树基因)
+174,844748at2759,10,Eukaryotic Ortholog 844748,核心单拷贝同源基因 / 生理代谢稳态,3.3904,正选择 (Positive),否
+175,1377237at2759,35,Eukaryotic Ortholog 1377237,核心单拷贝同源基因 / 生理代谢稳态,1.0,正选择 (Positive),否
+176,1623701at2759,54,Eukaryotic Ortholog 1623701,核心单拷贝同源基因 / 生理代谢稳态,1.254,正选择 (Positive),否
+177,720340at2759,93,Eukaryotic Ortholog 720340,核心单拷贝同源基因 / 生理代谢稳态,2.8649,正选择 (Positive),否
+178,179362at2759,7,Eukaryotic Ortholog 179362,核心单拷贝同源基因 / 生理代谢稳态,3.5669,正选择 (Positive),否
+179,1129824at2759,27,Eukaryotic Ortholog 1129824,核心单拷贝同源基因 / 生理代谢稳态,2.8383,正选择 (Positive),否
+180,1182451at2759,36,Eukaryotic Ortholog 1182451,核心单拷贝同源基因 / 生理代谢稳态,4.9616,正选择 (Positive),否
+181,1236198at2759,6,Eukaryotic Ortholog 1236198,核心单拷贝同源基因 / 生理代谢稳态,0.0849,纯化选择 (Purifying),否

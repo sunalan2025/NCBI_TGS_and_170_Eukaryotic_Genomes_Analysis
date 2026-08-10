@@ -1,0 +1,8 @@
+﻿Category_Type,Classification_Item,Genome_Count,Percentage_%
+Assembly Level,Chromosome / Complete Genome,163000,45.2
+Assembly Level,Scaffold Level,139200,38.6
+Assembly Level,Contig Level,58400,16.2
+Taxonomic Domain,Bacteria (细菌域),225000,62.4
+Taxonomic Domain,Eukaryota (真核生物域),89400,24.8
+Taxonomic Domain,Archaea (古菌域),29900,8.3
+Taxonomic Domain,Viruses & Other (病毒及其他),16300,4.5

@@ -1,0 +1,5 @@
+Word附录直接复制.txt
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

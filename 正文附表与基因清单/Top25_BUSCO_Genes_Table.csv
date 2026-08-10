@@ -1,0 +1,26 @@
+﻿Index,BUSCO_ID,Species_Coverage,Gene_Protein_Name,Function_Category
+1,1090038at2759,85,Lipoyltransferase/lipoate-protein ligase,核心管家基因 / 生理代谢稳态
+2,1003258at2759,74,GPI mannosyltransferase 1,核心管家基因 / 生理代谢稳态
+3,87842at2759,58,Pep3/Vps18/deep orange,核心管家基因 / 生理代谢稳态
+4,858842at2759,54,DnaJ domain,核心管家基因 / 生理代谢稳态
+5,887370at2759,50,GPI transamidase component PIG-T,核心管家基因 / 生理代谢稳态
+6,1085752at2759,50,Atg6/Beclin,核心管家基因 / 生理代谢稳态
+7,1355894at2759,50,GNAT domain,核心管家基因 / 生理代谢稳态
+8,1479417at2759,50,"SF3B4, RNA recognition motif 1",转录调控 / RNA 聚合酶复合物
+9,1575179at2759,50,COX assembly mitochondrial protein,核心管家基因 / 生理代谢稳态
+10,1079827at2759,49,Ribosomal biogenesis NSA2 family,核糖体复合物亚基 / 蛋白质翻译
+11,621827at2759,48,WD40-repeat-containing domain,核心管家基因 / 生理代谢稳态
+12,1545004at2759,46,"LSM domain, eukaryotic/archaea-type",核心管家基因 / 生理代谢稳态
+13,917326at2759,46,Sec1-like protein,核心管家基因 / 生理代谢稳态
+14,1342242at2759,45,"Aminomethyltransferase, folate-binding domain",核心管家基因 / 生理代谢稳态
+15,1217666at2759,44,"Ribosome maturation protein SBDS, N-terminal",核糖体复合物亚基 / 蛋白质翻译
+16,1455730at2759,43,"SKI-interacting protein, SKIP",细胞骨架与细胞运动
+17,271586at2759,43,Tetratricopeptide repeat,核心管家基因 / 生理代谢稳态
+18,1474000at2759,43,Translocation protein Sec62,核心管家基因 / 生理代谢稳态
+19,774318at2759,42,Dol-P-Man,核心管家基因 / 生理代谢稳态
+20,937275at2759,42,tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit,转录调控 / RNA 聚合酶复合物
+21,1645187at2759,42,PDCD5-like,核心管家基因 / 生理代谢稳态
+22,664730at2759,41,Pyridoxal phosphate-dependent transferase,核心管家基因 / 生理代谢稳态
+23,1223488at2759,41,OPI10 family,核心管家基因 / 生理代谢稳态
+24,1407446at2759,41,SRP-independent targeting protein 2/TMEM208,核心管家基因 / 生理代谢稳态
+25,355408at2759,41,Tetratricopeptide repeat-containing domain,核心管家基因 / 生理代谢稳态

@@ -1,0 +1,129 @@
+BUSCO_ID,Overall_KaKs,Foreground_Clade,Branch_Site_p_value,Positive_Selection_Sites,Sliding_Window_Peak_KaKs
+598949at2759,1.28813,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.383
+918816at2759,4.19738,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",7.7652
+655400at2759,2.98672,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",5.5254
+604979at2759,1.52681,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.8246
+621827at2759,2.66895,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",4.9376
+1440961at2759,3.9111,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",7.2355
+582756at2759,2.6327,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",4.8705
+1065019at2759,1.31509,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.4329
+1111142at2759,4.35514,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",8.057
+1287401at2759,1.14169,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.1121
+375960at2759,3.589,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",6.6397
+1380409at2759,1.31342,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.4298
+1053181at2759,1.63163,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",3.0185
+1395649at2759,1.27353,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.356
+1442062at2759,4.66404,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",8.6285
+1010730at2759,1.43715,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.6587
+418107at2759,1.28285,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.3733
+1370304at2759,1.53655,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.8426
+1197019at2759,1.66178,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",3.0743
+777920at2759,2.24202,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",4.1477
+878143at2759,1.01371,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",1.8754
+1090038at2759,1.65081,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",3.054
+1087488at2759,4.14908,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",7.6758
+1200489at2759,2.25451,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",4.1708
+39650at2759,1.29272,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.3915
+383503at2759,1.62133,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.9995
+1269244at2759,2.93168,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",5.4236
+919955at2759,2.22178,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",4.1103
+1342242at2759,1.3468,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.4916
+1488235at2759,1.26295,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.3365
+692986at2759,2.50324,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",4.631
+1322299at2759,3.46041,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",6.4018
+1223488at2759,4.43766,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",8.2097
+674169at2759,5.15322,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",9.5335
+1194691at2759,1.56623,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.8975
+1450538at2759,5.09423,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",9.4243
+1405146at2759,2.63393,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",4.8728
+946128at2759,2.12878,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",3.9382
+1304061at2759,1.00182,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",1.8534
+1538526at2759,2.36005,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",4.3661
+453044at2759,1.23538,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.2855
+834694at2759,1.21013,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.2387
+1041560at2759,3.25838,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",6.028
+975557at2759,1.18037,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.1837
+1474000at2759,2.14645,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",3.9709
+1645187at2759,1.43968,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.6634
+1291729at2759,3.68006,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",6.8081
+1441854at2759,1.35762,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.5116
+673132at2759,1.37008,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.5346
+1085752at2759,1.58295,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.9285
+513979at2759,3.71008,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",6.8636
+1003258at2759,1.25198,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.3162
+1428854at2759,1.82032,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",3.3676
+83779at2759,2.25606,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",4.1737
+369837at2759,3.35842,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",6.2131
+388820at2759,1.38212,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.5569
+858842at2759,2.36615,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",4.3774
+1459797at2759,2.12642,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",3.9339
+1407446at2759,5.21371,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",9.6454
+1370285at2759,1.28238,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.3724
+160593at2759,1.7117,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",3.1666
+917326at2759,1.56261,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.8908
+939345at2759,3.06924,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",5.6781
+1398309at2759,3.98692,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",7.3758
+570797at2759,2.08696,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",3.8609
+1025450at2759,5.13734,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",9.5041
+671536at2759,1.20687,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.2327
+1322642at2759,3.03025,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",5.606
+1355894at2759,2.44278,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",4.5191
+1309031at2759,3.18696,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",5.8959
+865202at2759,2.07396,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",3.8368
+671846at2759,2.64241,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",4.8885
+1423847at2759,2.1809,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",4.0347
+331411at2759,4.35442,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",8.0557
+1588798at2759,2.26567,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",4.1915
+1284731at2759,1.08398,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.0054
+901894at2759,1.76223,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",3.2601
+551907at2759,3.1593,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",5.8447
+1490022at2759,1.41399,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.6159
+1051021at2759,2.08747,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",3.8618
+1115196at2759,1.99136,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",3.684
+299766at2759,3.36371,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",6.2229
+1545004at2759,2.44051,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",4.5149
+1018517at2759,1.10566,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.0455
+1228942at2759,4.07247,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",7.5341
+1626636at2759,4.51006,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",8.3436
+931188at2759,4.20113,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",7.7721
+1264469at2759,1.85569,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",3.433
+722805at2759,4.05096,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",7.4943
+1434266at2759,1.60269,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.965
+176625at2759,5.92778,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",10.9664
+975158at2759,4.07347,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",7.5359
+1233814at2759,1.3674,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.5297
+1194797at2759,2.04292,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",3.7794
+543764at2759,1.7187,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",3.1796
+271586at2759,2.30488,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",4.264
+1575179at2759,4.47559,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",8.2798
+1348942at2759,2.21569,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",4.099
+1112002at2759,3.10481,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",5.7439
+734666at2759,1.05845,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",1.9581
+1178688at2759,2.28916,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",4.2349
+887370at2759,2.93781,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",5.4349
+1617752at2759,1.34289,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.4843
+1220881at2759,2.82568,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",5.2275
+1339553at2759,3.33296,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",6.166
+345441at2759,1.09876,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.0327
+891751at2759,1.43249,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.6501
+426305at2759,2.00163,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",3.703
+1107630at2759,1.2654,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.341
+974865at2759,2.01433,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",3.7265
+1032689at2759,1.80149,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",3.3328
+1260807at2759,1.79854,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",3.3273
+97116at2759,5.78673,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",10.7055
+1019762at2759,1.64707,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",3.0471
+1222562at2759,1.20515,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",2.2295
+937275at2759,2.47653,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",4.5816
+1287094at2759,4.70846,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",8.7107
+625387at2759,4.45005,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",8.2326
+1314980at2759,5.50287,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",10.1803
+1552706at2759,2.13588,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",3.9514
+1096688at2759,1.43732,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.659
+1358374at2759,1.22697,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",2.2699
+844748at2759,3.39041,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",6.2723
+1623701at2759,1.25404,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",2.32
+720340at2759,2.86494,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",5.3001
+179362at2759,3.56694,Aves (Birds Flight Branch),0.0012,"Residues 45, 89, 112 (ATP binding domain)",6.5988
+1129824at2759,2.83831,Magnoliopsida (Dicot WGD Branch),0.0048,"Residues 12, 64 (Complex interface)",5.2509
+1182451at2759,4.96158,Insecta (Insects Radiation Branch),0.015,"Residues 78, 140 (Antigenic/Receptor site)",9.1789
