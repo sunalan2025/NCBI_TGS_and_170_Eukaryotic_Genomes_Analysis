@@ -1,0 +1,8 @@
+Class_EN,Class_ZH,Species_Count_n,Analyzed_Genes,Valid_Pairs,Mean_Ka,Mean_Ks,Median_KaKs,Mean_KaKs,Purifying_Pairs_Percent
+Amphibia,两栖纲 (Amphibia),5,3,5,0.0814,1.0696,0.075,0.0728,100.0
+Magnoliopsida,被子植物/双子叶植物纲 (Magnoliopsida),36,37,1144,0.2385,1.3957,0.1378,0.1879,99.39
+Actinopteri,辐鳍鱼纲 (Actinopteri),21,6,42,0.2327,1.1394,0.1493,0.2032,100.0
+Insecta,昆虫纲 (Insecta),24,131,1635,0.4688,1.9543,0.2115,0.2596,99.82
+Aves,鸟纲 (Aves),18,8,140,0.1257,0.4957,0.2177,0.2292,99.29
+Mammalia,哺乳纲 (Mammalia),43,54,714,0.259,0.6249,0.2741,0.3533,96.64
+Fungi,真菌类 (Fungi),5,145,301,0.7608,2.0845,0.3949,0.4071,100.0
