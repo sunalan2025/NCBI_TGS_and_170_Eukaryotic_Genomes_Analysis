@@ -15,7 +15,7 @@
    - 包含基于 NCBI Assembly 数据库 E-utilities API 审计的完整图表与数据表 (`正文图表(Figures)/图3.1 - 图3.5` 及 `统计数据汇总表(stats)/ncbi_tgs_...csv`)，定量展示长读长测序（PacBio HiFi/CLR、Oxford Nanopore ONT）组装数据的历年提交趋势、完成度分层及生态位分布。
 2. **170 个代表性真核生物基因组质量评估与系统发育演化分析**：
    - 包含 QUAST 连续性与 BUSCO 完整度评估数据集及对比图表 (`图3.6 - 图3.10`)；
-   - 包含用于重构 170 物种系统发育拓扑树的 646 KB 氨基酸多序列比对超级矩阵 (`concatenated_alignment_170.faa`) 与全景环形进化树 (`图3.11` 及 `species_phylogeny_tree_170_circular.pdf`)；
+   - 包含用于重构 170 物种系统发育拓扑树的 646 KB 氨基酸多序列比对超级矩阵 (`concatenated_alignment_170.faa`)、涵盖 43 个代表性真核生物的系统发育拓扑骨架树 (`图3.11`) 及 170 物种全景环形进化树 (`species_phylogeny_tree_170_circular.pdf`)；
    - 包含基于 NCBI RefSeq 官方审校 CDS 最长转录本代表序列的代表性物种旁系同源基因 Ka/Ks 选择压力数据集 (`表3.1_代表性物种旁系同源重复基因KaKs选择压力统计汇总表.csv` 及 `kaks_species_summary.csv`, `kaks_results_all.csv`)；
    - 包含 181 个共有 BUSCO 单拷贝核心直系同源基因的密码子对齐 (PAL2NAL) 与基于 Nei-Gojobori (NG86) 双重未饱和过滤 (\( K_a < 0.75, 0 < K_s < 0.75 \)) 的各大分类纲探索性试算数据集 (`图3.12`、`181_BUSCO_Orthologs_KaKs_Summary.csv`、`表3.2_各大纲类群BUSCO直系同源基因KaKs选择压力统计汇总表.csv` 及 `real_class_ortholog_kaks_summary.csv`)。
 
